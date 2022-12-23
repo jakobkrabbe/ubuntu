@@ -2,3 +2,14 @@
 https://askubuntu.com/questions/1403593/firefox-and-chromium-wont-start-in-ubuntu-22-04-with-nouveau-driver
 
 $ firefox -safe-mode
+
+https://www.google.com/search?channel=fs&client=ubuntu&q=ubuntu+firefox+crash+when+open+file+explorer
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1766256
+
+""""
+Can you close firefox, execute the following command, then run it again, and see if the problem is gone?
+
+rm -rf ~/snap/firefox/common/.cache
+
+""""
