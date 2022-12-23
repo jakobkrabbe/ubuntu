@@ -1,0 +1,4 @@
+** FREFOX NOT SHOW USER INTERFACE
+https://askubuntu.com/questions/1403593/firefox-and-chromium-wont-start-in-ubuntu-22-04-with-nouveau-driver
+
+$ firefox -safe-mode
